@@ -1,0 +1,1 @@
+sysbench cpu --cpu-max-prime=100000 run

@@ -1,0 +1,1 @@
+sudo docker run --rm -it ubuntu bash -c "apt update && apt install -y sysbench && sysbench memory run"

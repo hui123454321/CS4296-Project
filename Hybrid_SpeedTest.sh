@@ -1,0 +1,1 @@
+ sudo docker run --rm -it -v /home/ubuntu:/app python:3.9 python3 /app/mergeSort.py

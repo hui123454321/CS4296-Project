@@ -1,0 +1,1 @@
+scp -i "/Users/key.pem" ./mergeSort.py ubuntu@3.80.128.165:.
